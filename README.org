@@ -17,7 +17,7 @@ Nerd Fonts
 * Install
 In order to install ADPDS do
 
-#+begin_src bash :exports none
+#+begin_src bash
 git clone https://github.com/redkittty/ADPDS.git && cd ADPDS
 #+end_src
 
@@ -44,7 +44,7 @@ Finally those scripts have to link to os/dotfiles.sh to copy over dotfiles from 
 
 ex: Debian
 
-#+begin_src bash :exports none
+#+begin_src bash
 #!/bin/bash
 # DEBIAN (EXAMPLE SCRIPT)
 # NERD FONTS ARE RECOMMENDED
